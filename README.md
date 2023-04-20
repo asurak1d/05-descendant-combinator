@@ -1,1 +1,1 @@
-# 05-descendant-combinator
+In this exercise, I practiced adding CSS descendant combinator to text. This is an exercise from The Odin Project for CSS.
